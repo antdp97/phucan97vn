@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS and TypeScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ? facebook: - email: phucanvn2012@gmail.com
+- 📫 How to reach me ? facebook: - email: phucan97.work@gmail.com
 
 <!---
 phucan97vn/phucan97vn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
