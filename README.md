@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phucan97vn
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS and TypeScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on making web development project
 - 📫 How to reach me ? facebook: - email: phucan97.work@gmail.com
 
 <!---
